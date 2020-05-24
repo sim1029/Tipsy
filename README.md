@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/icon_60pt@2x.png)
+![App Brewery Banner](Documentation/120.png)
 
 #  Tipsy
 
